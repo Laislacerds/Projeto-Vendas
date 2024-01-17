@@ -1,6 +1,5 @@
 # Projeto de Análise de Vendas
-
-Este é um projeto de análise de vendas usando Python, Pandas e Openpyxl. Ele realiza algumas análises sobre os dados de vendas e envia um relatório por e-mail utilizando a biblioteca win32com.client.
+O projeto de análise de vendas em Python utiliza as bibliotecas Pandas e Openpyxl para realizar análises detalhadas sobre dados de vendas, incluindo faturamento por loja, quantidade de produtos vendidos e ticket médio. Além disso, incorpora a funcionalidade de envio automático de relatórios por e-mail usando a biblioteca win32com.client. Este script proporciona uma visão abrangente do desempenho de vendas, permitindo uma fácil compreensão e interpretação dos dados. Ideal para monitoramento e comunicação eficiente das métricas essenciais para os interessados no negócio.
 
 ## Pré-requisitos
 
